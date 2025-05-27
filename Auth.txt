@@ -1,0 +1,11 @@
+tanent 
+id :- arjunsingh32085@gmail.com
+psw :- 123
+
+User 
+id :- gt@gmail.com
+psw :- 123
+
+admin
+id:- dj@gmail.com
+psw:- 123
